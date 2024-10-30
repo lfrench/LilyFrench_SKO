@@ -1,4 +1,4 @@
-# SKO 
+# Reflective Statement
 Lily french 
 
 This term, my experience in typography and coding has been transformative, unveiling the dynamic role design plays in our digital world. Through hands-on projects, I quickly realized that while technology enables endless creativity, impactful design relies on thoughtful planning and detailed testing. For instance, our Week 2 project, which involved creating vintage-style videos from recycled materials, underscored how valuable it is to be resourceful while also highlighting the importance of predicting user interactions in design.
